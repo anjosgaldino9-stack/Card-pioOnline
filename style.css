@@ -47,7 +47,8 @@ p{
     background-color: rgba(0,0,0,0.5);
     padding: 20px;
     border-radius: 20px;
-}
+    flex-wrap: wrap;}
+    
 .boxTexto{
     display: flex;
     flex-direction: column;
